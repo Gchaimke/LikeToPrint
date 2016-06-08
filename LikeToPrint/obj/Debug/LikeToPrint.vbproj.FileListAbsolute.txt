@@ -20,3 +20,7 @@ C:\Users\Brady\Documents\Visual Studio 2015\Projects\LikeToPrint\LikeToPrint\obj
 C:\Users\Brady\Documents\Visual Studio 2015\Projects\LikeToPrint\LikeToPrint\obj\Debug\LikeToPrint.Form1.resources
 C:\Users\Brady\Documents\Visual Studio 2015\Projects\LikeToPrint\LikeToPrint\obj\Debug\LikeToPrint.Resources.resources
 C:\Users\Brady\Documents\Visual Studio 2015\Projects\LikeToPrint\LikeToPrint\obj\Debug\LikeToPrint.vbproj.GenerateResource.Cache
+C:\Users\Brady\Source\Repos\LikeToPrint\LikeToPrint\bin\Debug\LikeToPrint.exe.config
+C:\Users\Brady\Source\Repos\LikeToPrint\LikeToPrint\obj\Debug\LikeToPrint.exe
+C:\Users\Brady\Source\Repos\LikeToPrint\LikeToPrint\obj\Debug\LikeToPrint.xml
+C:\Users\Brady\Source\Repos\LikeToPrint\LikeToPrint\obj\Debug\LikeToPrint.pdb
